@@ -2,7 +2,7 @@
 - 👀 I’m interested in ReactJs,JavaScript,HTML5,CSS3,Less,Java,NodeJs.
 - 🌱 I’m currently learning AWS Certified Solution Architect.
 - 💞️ I’m looking to collaborate on Projects which boosts my career.
-- 📫 How to reach me - Email: skgeek4@gmail.com
+- 📫 How to reach me - Email: suresh.kommuri222@gmail.com
 
 <!---
 suresh-kommuri/suresh-kommuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
